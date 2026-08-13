@@ -66,7 +66,7 @@ If a hash does not match, do not run the file — contact the provider for a ver
 
 - 📄 [Installation, Configuration and Setup Guide (PDF)](./HHS-SR-SCA-ES-Installation-Guide.pdf)
 - 📄 [Paper — System Design & Knowledge Base Architecture (PDF)](./HIPAA_Security_Rule_NPRM_CLIPS_Expert_System.pdf)
-- 🎥 [Demo Video — link to be added](https://github.com/tpd3gmj/HHS-SR-SCA-ES/releases/download/Version_1_0/SCA_DEMO_Video.mp4)
+- 🎥 [SCA Demo Video](https://github.com/tpd3gmj/HHS-SR-SCA-ES/releases/download/Version_1_0/SCA_DEMO_Video.mp4)
 - 🔐 [File Integrity Hashes](./HHS-SR-SCA-FileHashes.txt)
 
 ## Disclaimer
