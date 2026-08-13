@@ -1,0 +1,42 @@
+HIPAA Security Rule - Safeguard Compliance Assessment (SCA) Expert System
+File Integrity Verification - SHA256
+Version 1.0
+Copyright 2026. Thomas P. Dover. All Rights Reserved.
+Repository: https://github.com/tpd3gmj/HHS-SR-SCA-ES
+
+Generated: 2026-08-13
+
+This file lists SHA256 cryptographic hashes for each file distributed in the
+HHS-SR-SCA-ES GitHub repository. Before use, verify each file's hash matches
+the value listed below. If a hash does not match exactly, do not use the file
+and contact the provider for a verified copy.
+
+Windows PowerShell verification:
+    Get-FileHash <filename> -Algorithm SHA256
+
+Windows Command Prompt verification:
+    certutil -hashfile <filename> SHA256
+
+--------------------------------------------------------------------------------
+
+SHA256 (HHS-SR-164_308-Administrative-DEMO.clp) =
+9dcada669aa0ab835ac9acbb93bf4ea65a40a19c6f228dc3f232d6db9b971e96
+
+SHA256 (HHS-SR-164_310-Physical-DEMO.clp) =
+5ff6d2cf78278cf371fef7f2a96d99ad112bb4660b41c0b14ae39c2f2d6a1431
+
+SHA256 (HHS-SR-164_312-Technical-DEMO.clp) =
+34e095731398ff3f8a014d56b3a676c7ce13832fcb720ff17739e237afc26499
+
+SHA256 (HHS-SR-SCA-ES-Installation-Guide.pdf) =
+90d7b75ba724a36af868b0cc5c4f89175507e76a90ad03e5e61d154ad3a2c407
+
+SHA256 (HIPAA_Security_Rule_NPRM_CLIPS_Expert_System.pdf) =
+8c281abbd4be2e93844a3c65e94d0b630dcfd38d46bf74ff340512e8a7ae4dc3
+
+--------------------------------------------------------------------------------
+
+NOTE: This manifest covers only the 5 files included in the v1.0 GitHub
+upload (3 DEMO .clp modules, Installation Guide, and ArXiv paper). It does not
+cover the 5 Production .clp files or their changelogs, which are out of scope
+for this release.
